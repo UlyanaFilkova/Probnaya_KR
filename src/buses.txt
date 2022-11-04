@@ -1,0 +1,6 @@
+Mersedes black dizel 65 2
+Mersedes white dizel 85 2
+MAZ green dizel 35 3
+MAZ yellow dizel 30 3
+Audi blue benzin 45 2
+MAZ yellow dizel 30 3
